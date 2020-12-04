@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403054103916",
+    "firebase_url": "https://bus-tracking-system-2b5e0.firebaseio.com",
+    "project_id": "bus-tracking-system-2b5e0",
+    "storage_bucket": "bus-tracking-system-2b5e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403054103916:android:6b53c5ddff7611496ab749",
+        "android_client_info": {
+          "package_name": "com.rk.bts_busdriversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403054103916-4t2v1pqn3sjl0euaua6ptqffuhad7ktn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rk.bts_busdriversapp",
+            "certificate_hash": "14238c8db1cadae920a0875e0085297206a5cd89"
+          }
+        },
+        {
+          "client_id": "403054103916-tmlkhdqmaatnjae785ojgortiiratlb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIo7Affw9jW1-xcsut8juli6186a8GhFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403054103916-tmlkhdqmaatnjae785ojgortiiratlb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

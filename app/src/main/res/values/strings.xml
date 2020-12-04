@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BTS - driver</string>
+    <string name="internet_access_warning">Internet access needed by the app.</string>
+    <string name="tracking_active_notification">Tracking is enabled, stop in app.</string>
+    <string name="bus_driving_text">The bus is in driving mode</string>
+    <string name="bus_idle_text">The bus is not in driving mode</string>
+    <string name="btn_driving_mode_on">Turn off driving mode</string>
+    <string name="btn_driving_mode_off">Turn on driving mode</string>
+    <string name="no_line_chosen_warning">Please choose a line!</string>
+    <string name="tracking_enabled_toast">Location tracking enabled</string>
+    <string name="tracking_disabled_toast">Location tracking disabled</string>
+    <string name="bus_selection_failed">Bus and line selection failed, try again.</string>
+    <string name="bus_found_toast">Bus found</string>
+    <string name="bus_not_found_toast">Bus not found</string>
+    <string name="et_not_filled_in_warning">Please fill in</string>
+    <string name="login_failed_toast">Login failed</string>
+    <string name="fields_not_filled_in_toast">Fill in the fields!</string>
+    <string name="tv_line_bus_chosen">Line and bus chosen:</string>
+    <string name="btn_choose_line">Choose a line</string>
+    <string name="tv_no_bus_line_chosen">None</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pwd">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="tv_bus_reg_plate">Enter bus registration plate</string>
+    <string name="tv_choose_line">Choose a line</string>
+    <string name="hint_reg_plate">NS123AB</string>
+    <string name="btn_finish_choosing_line">Finish Setup</string>
+</resources>
